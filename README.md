@@ -1,8 +1,8 @@
-# Test Chat App
+# Fullstack App
 
 Build an event organization web app like Eventbrite or Meetup 
 with authentication, event management, search, filtering, 
-categories, checkout, and payments
+categories, checkout, and payments.
 
 **Stack:**
 - Next JS 14, 
@@ -22,6 +22,6 @@ categories, checkout, and payments
 
 1. ``npm install`` install all dependencies.
 
-2. Add .env file to the root folder.
+2. Add .env file to the root folder with your variables.
 
 3. ``npm run dev`` run app.
